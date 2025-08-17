@@ -8,8 +8,7 @@ Welcome to my portfolio of projects. This repository highlights selected project
 ## 🔹 1. Category Strategy for Transformers for a Utility Client in US
 - **Objective:** Enhancing procurement efficiency and driving cost savings for the Client.  
 - **Skills Used:** Market research, Spend Analysis, Lead Time Analysis, Benchmarking Suppliers.  
-- **Files:** [📊 PPT Deck](
- ./Sample Work Strategy.pptx)
+- **Files:** [📊 PPT Deck](https://github.com/deepanshugov29-ship-it/deepanshu-rawat-portfolio/blob/main/Sample%20Work%20Strategy.pptx)
 
 ---
 
